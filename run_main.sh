@@ -1,0 +1,1 @@
+python src/main.py --repo https://github.com/satomic/copilot-proxy-insight-of-every-user.git --snippet queries/example.py

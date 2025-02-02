@@ -1,0 +1,8 @@
+gitpython
+transformers
+torch
+numpy
+faiss-cpu
+difflib
+pytest
+pytest-mock
